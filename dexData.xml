@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mon>
+<fakemon id="001">
+	<dexNum>001</dexNum>
+	<name>Canopite</name>
+	<desc>Chomp</desc>
+	<stage>Base</stage>
+	<evoNum>3</evoNum>
+	<evo>Silvade</evo>
+	<evoMethod>Lv 16</evoMethod>
+	<type1>Grass</type1>
+	<type2>Grass</type2>
+	<ability1>Overgrow</ability1>
+	<ability2>Overgrow</ability2>
+	<hiddenAbility>Strong Jaw</hiddenAbility>
+	<maleRatio>87.5%</maleRatio>
+	<femaleRatio>12.5%</femaleRatio>
+	<eggGroup1>Monster</eggGroup1>
+	<eggGroup2>Grass</eggGroup2>
+	<catchRate>45</catchRate>
+	<levelRate>Medium Slow</levelRate>
+	<dexColor>Green</dexColor>
+	<height>2'02"</height>
+	<weight>16.3 lbs.</weight>
+	<dexEntry>As a social ritual, many Canopite will munch on the leaves of their close friends. Each has its own unique taste.</dexEntry>
+	<genderDif>no</genderDif>
+	<spriteurl>/fakemondex/sprites/001</spriteurl>
+</fakemon>
+
+<fakemon id="002">
+	<dexNum>002</dexNum>
+	<name>Silvade</name>
+	<desc>Chomp</desc>
+	<stage>Second</stage>
+	<evoNum>3</evoNum>
+	<evo>Parslyche</evo>
+	<evoMethod>Lv 36</evoMethod>
+	<type1>Grass</type1>
+	<type2>Grass</type2>
+	<ability1>Overgrow</ability1>
+	<ability2>Overgrow</ability2>
+	<hiddenAbility>Strong Jaw</hiddenAbility>
+	<maleRatio>87.5%</maleRatio>
+	<femaleRatio>12.5%</femaleRatio>
+	<eggGroup1>Monster</eggGroup1>
+	<eggGroup2>Grass</eggGroup2>
+	<catchRate>45</catchRate>
+	<levelRate>Medium Slow</levelRate>
+	<dexColor>Green</dexColor>
+	<height>2'11"</height>
+	<weight>51.2 lbs.</weight>
+	<dexEntry>The larger the leaf atop its head, the more energy they gain in the daytime. Because of this, large-leafed Silvade tend to be dominant over their peers.</dexEntry>
+	<genderDif>no</genderDif>
+	<spriteurl>/fakemondex/sprites/002</spriteurl>
+</fakemon>
+
+<fakemon id="003">
+	<dexNum>003</dexNum>
+	<name>Parslyche</name>
+	<desc>Crunch</desc>
+	<stage>Final</stage>
+	<evoNum>3</evoNum>
+	<evo>Silvade</evo>
+	<evoMethod></evoMethod>
+	<type1>Grass</type1>
+	<type2>Dragon</type2>
+	<ability1>Overgrow</ability1>
+	<ability2>Overgrow</ability2>
+	<hiddenAbility>Strong Jaw</hiddenAbility>
+	<maleRatio>87.5%</maleRatio>
+	<femaleRatio>12.5%</femaleRatio>
+	<eggGroup1>Monster</eggGroup1>
+	<eggGroup2>Grass</eggGroup2>
+	<catchRate>45</catchRate>
+	<levelRate>Medium Slow</levelRate>
+	<dexColor>Green</dexColor>
+	<height>6'2"</height>
+	<weight>205.6 lbs.</weight>
+	<dexEntry>In hot environments, the leaves that make up its wings can wither away. If this happens, their flightlessness makes them more likely to lash out. The wings may eventually grow back, but the ferocity remains.</dexEntry>
+	<spriteurl>/fakemondex/sprites/003</spriteurl>
+	<genderDif>no</genderDif>
+</fakemon>
+
+<fakemon id="016">
+	<dexNum>016</dexNum>
+	<name>Meerkal</name>
+	<desc>Observer</desc>
+	<stage>Base</stage>
+	<evoNum>2</evoNum>
+	<evo>Meerkeep</evo>
+	<evoMethod>Lv 21</evoMethod>
+	<type1>Normal</type1>
+	<type2>Normal</type2>
+	<ability1>Keen Eye</ability1>
+	<ability2>Pickup</ability2>
+	<hiddenAbility>Stakeout</hiddenAbility>
+	<maleRatio>50%</maleRatio>
+	<femaleRatio>50%</femaleRatio>
+	<eggGroup1>Field</eggGroup1>
+	<eggGroup2>Field</eggGroup2>
+	<catchRate>255</catchRate>
+	<levelRate>Medium Fast</levelRate>
+	<dexColor>Brown</dexColor>
+	<height>2'4"</height>
+	<weight>11.7 lbs.</weight>
+	<dexEntry>They live in large groups and are always on the watch for danger. If one senses anything amiss, their colony can hide themselves in an instant despite the size.</dexEntry>
+	<spriteurl>/fakemondex/sprites/016</spriteurl>
+	<genderDif>no</genderDif>
+</fakemon>
+
+<fakemon id="017">
+	<dexNum>017</dexNum>
+	<name>Meerkeep</name>
+	<desc>Observer</desc>
+	<stage>Final</stage>
+	<evoNum>2</evoNum>
+	<evo>Meerkeep</evo>
+	<evoMethod></evoMethod>
+	<type1>Normal</type1>
+	<type2>Normal</type2>
+	<ability1>Keen Eye</ability1>
+	<ability2>Pickup</ability2>
+	<hiddenAbility>Stakeout</hiddenAbility>
+	<maleRatio>50%</maleRatio>
+	<femaleRatio>50%</femaleRatio>
+	<eggGroup1>Field</eggGroup1>
+	<eggGroup2>Field</eggGroup2>
+	<catchRate>90</catchRate>
+	<levelRate>Medium Fast</levelRate>
+	<dexColor>Brown</dexColor>
+	<height>4'7"</height>
+	<weight>80 lbs.</weight>
+	<dexEntry>They are used to test coding and that's about it. I need to change this dex entry.</dexEntry>
+	<spriteurl>/fakemondex/sprites/017</spriteurl>
+	<genderDif>no</genderDif>
+</fakemon>
+
+</mon>

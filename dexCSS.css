@@ -1,0 +1,94 @@
+@charset "utf-8";
+
+#dexContainer {
+	width: 90%;
+	margin: auto;
+	padding: 5px;
+	padding-bottom: 30px;
+	background-color: #000000;
+	color: #fff;
+	border-radius: 10px;
+}
+
+.infoBox {
+	background-color: rgba(255,255,255, 0.7);
+	border-radius: 15px;
+	border-style: solid;
+	border-color: #000;
+	border-width: 3px;
+	padding: 10px;
+	color: #000;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#spriteContainer {
+	height: 96px;
+	width: 96px;
+	background-color: #ffffff;
+	color: #000;
+}
+
+#selectContainer {
+	width: 90%;
+	margin: auto;
+	margin-bottom: 10px;
+}
+
+#navElements {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
+
+#leftNav {
+	display: inline;
+	position: relative;
+	margin-right: 35px;
+	text-decoration: underline;
+}
+
+#leftNav:hover, #rightNav:hover, #evo1:hover, #evo2:hover, #evo3:hover {
+	cursor: pointer;
+}
+
+#rightNav {
+	display: inline;
+	position: relative;
+	margin-left: 35px;
+	text-decoration: underline;
+}
+
+#select {
+	display: inline;
+	position: relative;
+}
+
+#genderRatio {
+	width: 200px;
+	margin-bottom: 100px;
+}
+
+#genderBar1 {
+	background-color: blue;
+	float: left;
+}
+
+#genderBar2 {
+	background-color: #CC227D;
+	float: right;
+}
+
+#evoBox {
+	width: 50%;
+	margin: auto;
+	padding: 3px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #000;
+}
+
+table.evoAlign {
+	margin-left:auto; 
+    margin-right:auto;
+}
